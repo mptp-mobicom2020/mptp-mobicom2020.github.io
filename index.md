@@ -7,6 +7,7 @@
 #
 layout: home
 permalink: /index.html
+title: Multipath Transport Protocols Tutorial @ MobiCom 2020
 header:
   image: /assets/img/home-header.jpg
 tagline: > # this means to ignore newlines until "repository:"
