@@ -13,16 +13,6 @@ tagline: > # this means to ignore newlines until "repository:"
   Write an awesome description for your new site here. You can edit this
   line in index.md. It will appear in your document head meta (for
   SEO optimization) and in your feed.xml site description.
-excerpt: >
-  Write an awesome description for your new site here. You can edit this
-  line in index.md. It will appear in your document head meta (for
-  SEO optimization) and in your feed.xml site description.
-repository:
-  is_project_page: true
-  show_downloads: true
-  repository_url: https://gitlab.com/lorepirri/jekyll-theme-simple-blog
-  zip_url: https://gitlab.com/lorepirri/jekyll-theme-simple-blog/repository/master/archive.zip
-  tar_url: https://gitlab.com/lorepirri/jekyll-theme-simple-blog/repository/master/archive.tar.gz
 ref: home
 lang: en
 ---
@@ -34,13 +24,3 @@ This theme has all you need to start today blogging with Jekyll, and no effort: 
 Have a look at the Github page for more information.
 
 You find this descriptive text in the `index.md` file, so you can change it, or remove it completely, according to your needs.
-
-<h1>Latest Articles</h1>
-<div>&nbsp;</div>
-{% include list-category-posts.html lang=page.lang category="articles" max_posts=3 max_post_tags=3 %}
-
----
-
-<h1>Latest Projects</h1>
-<div>&nbsp;</div>
-{% include list-category-posts.html lang=page.lang category="projects" max_posts=3 max_post_tags=3 %}

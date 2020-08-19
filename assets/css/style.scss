@@ -2,3 +2,10 @@
 ---
 
 @import 'jekyll-theme-simple-blog';
+
+.main-content {
+    max-width: 75em;
+    padding: 1rem 6rem;
+    margin: 0 auto;
+    font-size: 1.1rem;
+}
