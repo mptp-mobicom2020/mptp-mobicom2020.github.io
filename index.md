@@ -11,7 +11,7 @@ title: Multipath Transport Protocols Tutorial @ MobiCom 2020
 header:
   image: /assets/img/home-header.jpg
 tagline: > # this means to ignore newlines until "repository:"
-  Either Mon. Sept. 21, 2020 or Fri. Sept. 25, 2020 (exact time to be confirmed)
+  Fri. Sept. 25, 2020 (exact time to be confirmed)
 ref: home
 lang: en
 ---
@@ -29,14 +29,14 @@ At the end of the tutorial, the attendees will be able to determine when and how
 
 # Tutorial Program (subject to changes)
 
-| 1:00 pm - 2:30 pm CEST | Session I: Multipath TCP |
+| 4:00 pm - 5:30 pm CEST | Session I: Multipath TCP |
 |:----------------------:|:------------------------:|
-| 1:00 pm - 2:00 pm CEST | The design of Multipath TCP and the influence of the middleboxes |
-| 2:00 pm - 2:30 pm CEST | Hands-on labs: The impact of multi-path algorithms |
-| **2:30 pm - 3:00 pm CEST** | **Coffee Break** |
-| **3:00 pm - 4:30 pm CEST** | **Session II: Multipath QUIC** |
-| 3:00 pm - 4:00 pm CEST | Applying Multipath principles to a cleaner transport protocol: Multipath QUIC |
-| 4:00 pm - 4:30 pm CEST | Hands-on labs: Multipath QUIC in action and tweaking its packet scheduler |
+| 4:00 pm - 5:00 pm CEST | The design of Multipath TCP and the influence of the middleboxes |
+| 5:00 pm - 5:30 pm CEST | Hands-on labs: The impact of multi-path algorithms |
+| **5:30 pm - 6:00 pm CEST** | **Coffee Break** |
+| **6:00 pm - 7:30 pm CEST** | **Session II: Multipath QUIC** |
+| 6:00 pm - 7:00 pm CEST | Applying Multipath principles to a cleaner transport protocol: Multipath QUIC |
+| 7:00 pm - 7:30 pm CEST | Hands-on labs: Multipath QUIC in action and tweaking its packet scheduler |
 
 # Outline
 
