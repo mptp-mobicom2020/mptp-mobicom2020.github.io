@@ -11,7 +11,7 @@ title: Multipath Transport Protocols Tutorial @ MobiCom 2020
 header:
   image: /assets/img/home-header.jpg
 tagline: > # this means to ignore newlines until "repository:"
-  Fri. Sept. 25, 2020 (exact time to be confirmed)
+  Fri. Sept. 25, 2020 ~ 4:00 pm - 7:30 pm CEST
 ref: home
 lang: en
 ---
@@ -27,7 +27,7 @@ This tutorial aims at summarizing the lessons learned during the last ten years 
 
 At the end of the tutorial, the attendees will be able to determine when and how multipath transport can be applied to their use cases. They will also have a more in-depth understanding of the impact of the packet scheduling, congestion control and path management mechanisms on the performance of these protocols.
 
-# Tutorial Program (subject to changes)
+# Tutorial Program
 
 | 4:00 pm - 5:30 pm CEST | Session I: Multipath TCP |
 |:----------------------:|:------------------------:|
