@@ -27,6 +27,8 @@ This tutorial aims at summarizing the lessons learned during the last ten years 
 
 At the end of the tutorial, the attendees will be able to determine when and how multipath transport can be applied to their use cases. They will also have a more in-depth understanding of the impact of the packet scheduling, congestion control and path management mechanisms on the performance of these protocols.
 
+## [Link to the Slack channel](https://app.slack.com/client/T018NQGMDQE/C01BDECHEV6)
+
 # Tutorial Program
 
 | 4:00 pm - 5:30 pm CEST | Session I: Multipath TCP |
@@ -65,13 +67,13 @@ Anyone with basic understanding of TCP can participate in this tutorial. An over
 
 # Organizers
 
-## Olivier Bonaventure (UCLouvain, Belgium)
-
-[Olivier Bonaventure](https://perso.uclouvain.be/olivier.bonaventure) is professor at UCLouvain (Belgium) where he leads the [IP Networking Lab](https://inl.info.ucl.ac.be). Together with the Ph.D. students and postdocs of the lab, he has contributed to various networking protocols including BGP, LISP, Multipath TCP, IPv6 Segment Routing, and QUIC. He is active within the IETF and the lab has produced open-source implementations of important protocols including Multipath TCP, IPv6 Segment Routing, LISP, and more. He was editor in chief of SIGCOMM CCR and is the main author of the award-winning and open-source Computer Networking: Principles, Protocols and Practice e-book. He co-founded the Tessares company that pioneers the deployment of Hybrid Access Networks using Multipath TCP. Researchers from the IP Networking Lab received various awards including an INFOCOM best paper award, a SIGCOMM best paper award, an ICNP best paper award, a USENIX NSDI community award, several Applied Networking Research awards and the 2019 SIGCOMM Networking Systems Award for the development of the open-source implementation of Multipath TCP.
-
 ## Quentin De Coninck (UCLouvain, Belgium)
 
 [Quentin De Coninck](https://qdeconinck.github.io) received his Master degree in Computer Engineering at UCLouvain, Belgium in 2015 and finalized his Ph.D. thesis about "Flexible Multipath Transport Protocols" this year under the supervision of Olivier Bonaventure. He proposed improvements to Multipath TCP on smartphones and then designed, implemented and evaluated Multipath QUIC. He currently works on developing new techniques to better extend the QUIC protocol.
+
+## Olivier Bonaventure (UCLouvain, Belgium)
+
+[Olivier Bonaventure](https://perso.uclouvain.be/olivier.bonaventure) is professor at UCLouvain (Belgium) where he leads the [IP Networking Lab](https://inl.info.ucl.ac.be). Together with the Ph.D. students and postdocs of the lab, he has contributed to various networking protocols including BGP, LISP, Multipath TCP, IPv6 Segment Routing, and QUIC. He is active within the IETF and the lab has produced open-source implementations of important protocols including Multipath TCP, IPv6 Segment Routing, LISP, and more. He was editor in chief of SIGCOMM CCR and is the main author of the award-winning and open-source Computer Networking: Principles, Protocols and Practice e-book. He co-founded the Tessares company that pioneers the deployment of Hybrid Access Networks using Multipath TCP. Researchers from the IP Networking Lab received various awards including an INFOCOM best paper award, a SIGCOMM best paper award, an ICNP best paper award, a USENIX NSDI community award, several Applied Networking Research awards and the 2019 SIGCOMM Networking Systems Award for the development of the open-source implementation of Multipath TCP.
 
 ## References
 
